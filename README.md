@@ -9,3 +9,7 @@
 - [インストール](./doctree/install.md#インストール)
 
 - [ガイド](./doctree/guide.md#ガイド)
+
+- [JsFiddle](https://jsfiddle.net/boilerplate/vues)
+
+- [Vue JS入門決定版！jQueryを使わないWeb開発」サポートサイト](https://programmingnavi.com/support-vuejs/)
