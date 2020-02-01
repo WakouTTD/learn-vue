@@ -8,6 +8,14 @@
   - 基本的には何かしらの理由がある場合以外は、CDNを使う方が気軽でお薦め
   - [公式](https://jp.vuejs.org/v2/guide/installation.html#CDN)
 
+
+htmlのbodyの終了タグの直前に配置
+
+```
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+```
+
+
 - 直接組み込み
   - ファイルをダウンロード
 
