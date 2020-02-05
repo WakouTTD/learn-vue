@@ -7,6 +7,7 @@
 jsfiddle
 
 javascript
+
 ```javascript
 // Vueインスタンス
 var app = new Vue({
@@ -20,6 +21,7 @@ var app = new Vue({
 ```
 
 html
+
 ```html
 <!-- この部分をテンプレートと言う。 `app`をセレクターと言う -->
 <div id="app">

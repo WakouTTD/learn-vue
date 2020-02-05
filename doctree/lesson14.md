@@ -3,6 +3,7 @@
 jsfiddle
 
 javascript
+
 ```javascript
 <script>
 src＝”https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js”
@@ -10,9 +11,11 @@ src＝”https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js”
 ```
 
 html
+
 ```html
 var app = new Vue({})
 ```
+
 上記の`Vue`をルートVueインスタンスと呼ぶ
 上記のままでは空のVueインスタンス
 
